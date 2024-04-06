@@ -33,9 +33,9 @@
 
 [![LeetCode user pssingh1434](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fpssingh1434&logo=leetcode&logoColor=yellow)](https://leetcode.com/pssingh1434/)
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=pssingh) <!-- codeforces -->
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=pssingh)](https://codeforces.com/profile/pssingh) <!-- codeforces -->
 
-![](https://cp-logo.vercel.app/codechef/priyanshu1434) <!-- codechef -->
+[![](https://cp-logo.vercel.app/codechef/priyanshu1434)](https://www.codechef.com/users/priyanshu1434)  <!-- codechef -->
 
 
 
