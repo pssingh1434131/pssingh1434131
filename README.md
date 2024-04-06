@@ -11,9 +11,9 @@
 <h2 align="center"> :fire: My Stats </h2>
 
 <div style="display: flex; justify-content: space-between; align-items:center">
-<img src="https://github-readme-stats.vercel.app/api?username=pssingh1434131" alt="My github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=pssingh1434131" alt="My github stats" width="40%">
 <a href="https://git.io/streak-stats">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=pssingh1434131&theme=dark&background=000000" alt="GitHub Streak">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=pssingh1434131&theme=dark&background=000000" alt="GitHub Streak" width="40%">
 </a>
 </div>
 
