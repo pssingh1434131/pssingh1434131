@@ -11,12 +11,15 @@
 <h1 align="center"> :fire: My Stats </h1>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pssingh1434131" alt="My github stats" width="70%">
+<img src="https://github-readme-stats.vercel.app/api?username=pssingh1434131&show_icons=true&theme=onedark" alt="My github stats" width="70%">
 </div>
 <div align="center">
 <a href="https://git.io/streak-stats">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=pssingh1434131&theme=dark&background=000000" alt="GitHub Streak" width="70%">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=pssingh1434131&theme=onedark" alt="GitHub Streak" width="70%">
 </a>
+</div>
+<div align="center">
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pssingh1434131&theme=github"  alt="Graph">
 </div>
 
 
@@ -30,7 +33,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pssingh1434131&label=Profile%20views&color=0e75b6&style=flat" alt="pssingh1434131" /> </p>
-<img align="right" alt="Top Langs" width="400" height="200" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pssingh1434131&layout=compact&theme=vision-friendly-dark">
+<img align="right" alt="Top Langs" width="400" height="200" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pssingh1434131&layout=compact&theme=onedark">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,4 +63,8 @@
 
 <hr>
 
-![Snake animation](https://github.com/pssingh1434131/pssingh1434131/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">
+  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=pssingh1434131&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </h1>
+
+![Snake animation](https://raw.githubusercontent.com/pssingh1434131/pssingh1434131/output/github-contribution-grid-snake-dark.svg)
