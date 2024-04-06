@@ -10,10 +10,12 @@
 <h2 align="center">Full Stack Web Developer | Competitive Programmer | Open Source Enthusiast</h2>
 <h2 align="center"> :fire: My Stats </h2>
 
-<div style="display: flex; justify-content: space-between; align-items:center">
-<img src="https://github-readme-stats.vercel.app/api?username=pssingh1434131" alt="My github stats" width="50%">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pssingh1434131" alt="My github stats" width="90%">
+</div>
+<div align="center">
 <a href="https://git.io/streak-stats">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=pssingh1434131&theme=dark&background=000000" alt="GitHub Streak" width="50%">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=pssingh1434131&theme=dark&background=000000" alt="GitHub Streak" width="90%">
 </a>
 </div>
 
@@ -26,9 +28,9 @@
 
 [![My Holopin board](https://holopin.me/@pssingh1434131)](https://holopin.io/@pssingh1434131)
 
-<img align="right" alt="Top Langs" width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pssingh1434131&layout=compact&theme=vision-friendly-dark">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pssingh1434131&label=Profile%20views&color=0e75b6&style=flat" alt="pssingh1434131" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pssingh1434131&label=Profile%20views&color=0e75b6&style=flat" alt="pssingh1434131" /> </p>
+<img align="right" alt="Top Langs" width="400" height="200" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pssingh1434131&layout=compact&theme=vision-friendly-dark">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
