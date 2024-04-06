@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pssingh1434/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pssingh1434" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/priyanshu1434" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanshu1434" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/priyanshu1434" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvm-5Fad8XKQMlk2YqYW5fae7lZfU-fh6Khkuh4j4AqQ&s" alt="priyanshu1434" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/pssingh1434131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pssingh1434131" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pssingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pssingh" height="30" width="40" /></a>
 <a href="https://leetcode.com/pssingh1434/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pssingh1434" height="30" width="40" /></a>
