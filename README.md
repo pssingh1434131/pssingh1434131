@@ -8,8 +8,25 @@
 <h1 align="center">CSE Pre Final Year</h1>
 
 <h2 align="center">Full Stack Web Developer | Competitive Programmer | Open Source Enthusiast</h2>
-<img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h2 align="center"> :fire: My Stats </h2>
 
+<div style="display: flex; justify-content: space-between; align-items:center">
+<img src="https://github-readme-stats.vercel.app/api?username=pssingh1434131" alt="My github stats">
+<a href="https://git.io/streak-stats">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=pssingh1434131&theme=dark&background=000000" alt="GitHub Streak">
+</a>
+</div>
+
+
+
+
+
+---
+<h2 align="center" >Holopin Badges</h2>
+
+[![My Holopin board](https://holopin.me/@pssingh1434131)](https://holopin.io/@pssingh1434131)
+
+<img align="right" alt="Top Langs" width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pssingh1434131&layout=compact&theme=vision-friendly-dark">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pssingh1434131&label=Profile%20views&color=0e75b6&style=flat" alt="pssingh1434131" /> </p>
 
 
