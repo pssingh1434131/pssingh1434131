@@ -67,4 +67,11 @@
   
 [![Trophies](https://github-profile-trophy.vercel.app/?username=pssingh1434131&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </h1>
 
-![Snake animation](https://github.com/pssingh1434131/pssingh1434131/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pssingh1434131/pssingh1434131/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
