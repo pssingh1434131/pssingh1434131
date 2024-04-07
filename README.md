@@ -66,5 +66,3 @@
 <h1 align="center">
   
 [![Trophies](https://github-profile-trophy.vercel.app/?username=pssingh1434131&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </h1>
-
-![snake gif](https://github.com/pssingh1434131/pssingh1434131/blob/output/github-contribution-grid-snake-dark.svg)
