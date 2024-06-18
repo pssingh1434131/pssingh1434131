@@ -7,7 +7,7 @@
 
 <h1 align="center">CSE Pre Final Year</h1>
 
-<h2 align="center">Full Stack Web Developer | Competitive Programmer | Open Source Enthusiast</h2>
+<h2 align="center">Full Stack Web Developer | Machine Learning | Deep Learning | Artificial Intelligence | Competitive Programmer | Open Source Enthusiast</h2>
 <h1 align="center"> :fire: My Stats </h1>
 
 <div align="center">
